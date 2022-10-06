@@ -1,0 +1,27 @@
+{
+  "name": "age-prediction",
+  "version": "1.0.0",
+  "description": "Age-prediction API",
+  "main": "App.js",
+  "scripts": {
+    "test": "node ./src/App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edyrrg/age-prediction.git"
+  },
+  "keywords": [
+    "Express.js",
+    "Node.js"
+  ],
+  "author": "Edy Rojas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edyrrg/age-prediction/issues"
+  },
+  "homepage": "https://github.com/edyrrg/age-prediction#readme",
+  "devDependencies": {
+    "express": "^4.18.1",
+    "expresss": "^0.0.0"
+  }
+}
